@@ -15,7 +15,8 @@ Esta aplicación móvil incluye:
 
 - [Node.js](https://nodejs.org/) >= 18  
 - NPM >= 9  
-- [Expo Go](https://play.google.com/store/apps/details?id=host.exp.exponent) en tu dispositivo Android  
+- [Expo Go](https://play.google.com/store/apps/details?id=host.exp.exponent) Solo Android
+  
 
 
 ---
