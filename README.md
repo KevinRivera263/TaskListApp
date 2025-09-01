@@ -28,6 +28,6 @@ Clonar el repositorio y entrar en el proyecto:
 ```bash
 git clone https://github.com/KevinRivera263/TaskListAppTest.git
 cd TaskListAppTest
-npm install ... 
+npm install
 
 
