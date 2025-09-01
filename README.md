@@ -9,7 +9,7 @@ Esta aplicación móil incluye:
 **Unit Tests** → pruebas de Redux y pantallas con Jest + React Native Testing Library.  
 
 ## NOTAS 
-Las imagenes devuelven 404
+**Las imagenes de la api devuelven 404**
 ---
 
 ## Requisitos previos
