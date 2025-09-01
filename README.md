@@ -40,7 +40,7 @@ APK generada
 Clonar el repositorio y entrar en el proyecto:
 
 ```bash
-git clone https://github.com/KevinRivera263/TaskListAppTest.git
+git clone https://github.com/KevinRivera263/TaskListApp.git
 cd TaskListAppTest
 npm install
 
