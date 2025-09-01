@@ -26,6 +26,6 @@ Las imagenes devuelven 404
 Clonar el repositorio y entrar en el proyecto:
 
 ```bash
-git clone <REPO_URL>
+git clone <https://github.com/KevinRivera263/TaskListAppTest.git>
 cd TaskListApp
 npm install
