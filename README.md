@@ -11,7 +11,7 @@ Esta aplicación móvil incluye:
 
 ---
 
-## 🚀 Requisitos previos
+## Requisitos previos
 
 - [Node.js](https://nodejs.org/) >= 18  
 - NPM >= 9  
@@ -19,6 +19,20 @@ Esta aplicación móvil incluye:
   
 
 
+---
+
+## Tecnologias utilizadas
+
+- Expo + React Native
+- Redux Toolkit
+- React Navigation
+- Axios (Consumo de api)
+- Jest + React Native Testing Library
+- EAS Build (generación de APK en la nube)
+
+---
+APK generada
+- [Descargar apk](https://expo.dev/accounts/kf263/projects/TaskListApp/builds/4dc411ad-75d3-4a3f-86da-b115eb23bf91)
 ---
 
 ## 📦 Instalación
